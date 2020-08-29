@@ -9,11 +9,11 @@ The program takes input from a file, reads everyline and creates image "JPG" for
 RGB(147, 111, 236)  
 ![RGB(147, 111, 236)](https://i.imgur.com/ThLUci0.jpg)
 
-RGB(67, 185, 233)
+RGB(67, 185, 233)  
 ![RGB(67, 185, 233)](https://i.imgur.com/7IHYyTM.jpg)
 
-RGB(56, 205, 4)
+RGB(56, 205, 4)  
 ![RGB(56, 205, 4)](https://i.imgur.com/Cdpbikb.jpg)
 
-RGB(253, 208, 89)
+RGB(253, 208, 89)  
 ![RGB(253, 208, 89)](https://i.imgur.com/7YOmys3.jpg)
